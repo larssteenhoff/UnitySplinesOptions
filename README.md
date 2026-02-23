@@ -2,6 +2,10 @@
 
 Editor extensions and settings UI for **Unity Splines** (com.unity.splines). This repository contains **only original additions**—no Unity source code is distributed.
 
+### Preview
+
+<video src="SplinesOptions.mp4" controls width="100%"></video>
+
 ## License compliance
 
 - **Unity Splines** is © Unity Technologies ApS and licensed under the [Unity Companion License](https://unity.com/legal/licenses/unity-companion-license). You must use it under a valid Unity engine license.
