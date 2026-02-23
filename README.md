@@ -4,7 +4,9 @@ Editor extensions and settings UI for **Unity Splines** (com.unity.splines). Thi
 
 ### Preview
 
-<video src="SplinesOptions.mp4" controls width="100%"></video>
+<video src="https://github.com/larssteenhoff/UnitySplinesOptions/raw/main/SplinesOptions.mp4" controls width="100%"></video>
+
+*If the video doesn’t appear above, [watch the preview](https://github.com/larssteenhoff/UnitySplinesOptions/raw/main/SplinesOptions.mp4).*
 
 ## License compliance
 
