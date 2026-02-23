@@ -1,0 +1,21 @@
+{
+    "name": "SplinesExtensions.Editor",
+    "rootNamespace": "SplinesExtensions.Editor",
+    "references": [
+        "Unity.Splines.Editor",
+        "Unity.Splines",
+        "UnityEngine",
+        "UnityEditor",
+        "UnityEditor.CoreModule",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

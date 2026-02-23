@@ -1,0 +1,14 @@
+{
+    "name": "SplinesExtensions.Samples.Editor",
+    "rootNamespace": "SplinesExtensions.Samples",
+    "references": ["SplinesExtensions.Editor", "Unity.Splines.Editor"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
